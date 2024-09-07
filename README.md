@@ -64,7 +64,7 @@ To ensure a smooth contribution process, please refer to the [Contributor Guide]
 
 We appreciate all the hard work and creativity put into this program! Here are some of the amazing contributors who have added their unique projects to the Capx-AI Builders Program:
 
-[![Contributors](https://contrib.rocks/image?repo=devanshucodes/)](https://github.com/devanshucodes/Capx-ai-1)
+[![Contributors](https://contrib.rocks/image?repo=devanshucodes/Capx-ai-1)](https://github.com/devanshucodes/Capx-ai-1)
 
 ---
 
