@@ -1,4 +1,4 @@
-## 📚 Capx-AI Builders Program Repository
+##  Capx-AI Builders Program 💚
 
 Hey Builders! 👋
 
