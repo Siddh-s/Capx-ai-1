@@ -64,7 +64,14 @@ To ensure a smooth contribution process, please refer to the [Contributor Guide]
 
 We appreciate all the hard work and creativity put into this program! Here are some of the amazing contributors who have added their unique projects to the Capx-AI Builders Program:
 
-[![Contributors](https://contrib.rocks/image?repo=devanshucodes/Capx-ai-1)](https://github.com/devanshucodes/Capx-ai-1)
+| S.No | Contributor Name | Project Name         | GitHub Profile         |
+|------|------------------|----------------------|------------------------|
+| 1    | Devanshu Saxena  | Curebot              | [@devanshusaxena](https://github.com/devanshusaxena) |
+| 2    | Jane Doe         | AI Smart Assistant   | [@janedoe](https://github.com/janedoe) |
+| 3    | John Smith       | Health Tracker App   | [@johnsmith](https://github.com/johnsmith) |
+| ...  | ...              | ...                  | ...                    |
+
+*Note: To get listed as a contributor, make sure to add your name and details to the `contribution_tracker.md`.*
 
 ---
 
