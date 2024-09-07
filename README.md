@@ -1,6 +1,3 @@
-Here is the complete `README.md` content in Markdown format:
-
-```markdown
 ## 📚 Capx-AI Builders Program Repository
 
 Hey Builders! 👋
@@ -75,6 +72,7 @@ We appreciate all the hard work and creativity put into this program! Here are s
 | ...  | ...              | ...                  | ...                    |
 
 *Note: To get listed as a contributor, make sure to add your name and details to the `contribution_tracker.md`.*
-```
 
-Copy and paste this content into your `README.md` file. This will give your repository a well-organized and informative README for the builders to follow.
+---
+
+Feel free to customize and add more information as needed! This `README.md` provides a friendly and informative structure for your builders to get started quickly and contribute effectively.
